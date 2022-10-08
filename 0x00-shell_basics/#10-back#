@@ -1,3 +1,4 @@
-#!/bin/bash
-cd ..
+##!/bin/bash
+pwd /tmp
 10-back
+
