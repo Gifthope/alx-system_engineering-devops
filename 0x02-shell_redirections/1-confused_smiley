@@ -1,5 +1,5 @@
 #!/bin/bash
-cat "(Ôo)'
+echo "\"(Ôo)'"
 
 
  
